@@ -1,3 +1,3 @@
-# Articles
+# Essays
 
-Some articles on my personal opinions, updated occasionally.
+Essays on my personal views, updated occasionally.
